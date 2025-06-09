@@ -4,7 +4,7 @@ A simple yet powerful **Expense Tracker** built with JavaScript, HTML, and CSS t
 
 ## 🔗 Live Preview
 
-Check out the live project here: [Expense Tracker Live](https://your-live-preview-link.com)
+Check out the live project here: [Expense Tracker Live](https://expense-tracker-lt.netlify.app/)
 
 ## 🚀 Features
 
